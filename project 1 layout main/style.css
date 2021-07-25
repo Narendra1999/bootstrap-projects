@@ -1,0 +1,77 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.collapse{
+    background-color:grey;
+    margin: 0;
+    padding: 1rem 0;
+    display: flex;
+    justify-content:flex-end;
+    align-items:center;
+    border-radius: 25px;
+}
+.container-fluid{
+    width: 1381px;
+    padding-left: 0px;
+}
+.navbar-nav{
+    list-style:none;
+    margin-right: 2rem;
+}
+/* 
+.navbar-nav a {
+    text-decoration: none;
+    color:black;
+}*/ 
+
+.navbar-nav:first-child{
+    margin-left: 2rem;
+} 
+.card-img{
+    margin: 0;
+    padding: 0;
+    width:100px;
+    height:600px;
+    opacity: 30%;
+} 
+
+
+.card-title{ 
+    margin-top: 156px;
+}  
+.card-text{
+    
+    margin-top: 25px;
+}
+.newdiv{
+    margin:5px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    font-size: large;
+}
+.iconimage{
+    width: 60px;
+    height: 57px;
+    /* margin-left: 20px; */
+    margin-left: 0px;
+    margin-top: 34px;
+}
+.row{
+    color:grey;
+}
+
+
+/* .btnBT{
+    margin-left: 160px;
+    margin-top: 130px;
+    margin-right: 80px;
+}
+.btnwT{
+    margin-right: 80px;
+} 
+.btnDT{
+    margin-right: 0px;
+    margin-left: 80px
+}   */
